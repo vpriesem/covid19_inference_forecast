@@ -7,7 +7,7 @@
 
 * __Current code development takes place in the [new repository.](https://github.com/Priesemann-Group/covid19_inference/)__
 
-* __The research article [is available on arXiv](https://arxiv.org/abs/2004.01105).__
+* __The research article [is available on arXiv](https://arxiv.org/abs/2004.01105), and has been accepted at [Science](https://science.sciencemag.org/lookup/doi/10.1126/science.abb9789).__
 
 * __Here, we keep updating figures and provide the original code for the research article.__
 To get started, see [SIR_Germany_3scenarios_with_sine_weekend.ipynb](https://github.com/Priesemann-Group/covid19_inference_forecast/blob/master/scripts/paper200429/SIR_Germany_3scenarios_with_sine_weekend.ipynb), which generates Fig. 3 of the research article, and [scripts/paper200429/](https://github.com/Priesemann-Group/covid19_inference_forecast/blob/master/scripts/paper200429/), which is the directory of all scripts used for the article.
@@ -26,7 +26,7 @@ Our aim is to quantify the effects of intervention policies on the spread of COV
 <img src="figures/what_if_english.png" height="500">
 
 
-  * If the effective growth rate stays on the current (all-time low) value, new cases will further decrease (green). A low number of new daily cases might bring a full control of the spread within reach ([see our position paper by the four German research associations](https://www.mpg.de/14759871/corona-stellungnahme); [Endorsement](https://www.mpg.de/14760439/28-04-2020_Stellungnahme_Teil_01.pdf); [Position paper](https://www.mpg.de/14760439/28-04-2020_Stellungnahme_Teil_02.pdf)).
+  * If the effective growth rate stays on the current low value, new cases will further decrease (green). A low number of new daily cases might bring a full control of the spread within reach ([see our position paper by the four German research associations](https://www.mpg.de/14759871/corona-stellungnahme); [Endorsement](https://www.mpg.de/14760439/28-04-2020_Stellungnahme_Teil_01.pdf); [Position paper](https://www.mpg.de/14760439/28-04-2020_Stellungnahme_Teil_02.pdf)). Please also note our interview at [Die Zeit](https://www.zeit.de/wissen/gesundheit/2020-05/corona-massnahmen-lockerungen-coronavirus-eindaemmung-viola-priesemann).
 
   * If the relaxation of restrictions causes an increase in effective growth rate above zero, the daily new reported cases will increase again (red).
 
